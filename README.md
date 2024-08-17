@@ -1,2 +1,2 @@
 # bn-hmm
-Implementation of Bayesian Network (BN)-HMM
+Implementation of paper: "Time Series Prediction: HMMs with Arbitrary Observation Structures"
